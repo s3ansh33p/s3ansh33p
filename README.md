@@ -34,3 +34,7 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+**Notes:**
+Private codebase, which is why you don't see any repositories.
+If you would like to have access to a particular repo, send me an email.
