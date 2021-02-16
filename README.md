@@ -34,8 +34,3 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-**Stats:**
-
-![s3ansh33p's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3ansh33p&layout=compact&hide_border=true&theme=tokyonight)
-![s3ansh33p's github stats](https://github-readme-stats.vercel.app/api?username=s3ansh33p&show_icons=true&hide_border=true&theme=tokyonight)
