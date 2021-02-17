@@ -18,8 +18,10 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 
 **Tools / Languages:**
 
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Filezilla](https://img.shields.io/badge/-Filezilla-05122A?style=flat&logo=filezilla&logoColor=BF0000)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
@@ -28,13 +30,16 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoft-office&logoColor=D83B01)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=CC6699)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)
 
 **Notes:**
-Private codebase, which is why you don't see any repositories.
-If you would like to have access to a particular repo, send me an email.
+
+Currently a private codebase, which is why you don't see any repositories.
+If you would like to have access to a particular repository, send me an email.
