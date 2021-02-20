@@ -51,4 +51,4 @@ If you would like to have access to a particular repository, send me an email.
 **Stats:**
 
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=s3ansh33p&count_private=true&include_all_commits=true&theme=onedark" alt="s3ansh33p" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3ansh33p&layout=compact&theme=onedark&langs_count=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3ansh33p&layout=compact&theme=onedark" />
