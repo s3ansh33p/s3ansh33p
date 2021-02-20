@@ -2,11 +2,15 @@
 
 <!-- **s3ansh33p/s3ansh33p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<img src="https://github-profile-trophy.vercel.app/?username=s3ansh33p&theme=onedark&margin-w=15&margin-h=15&column=7" alt="s3ansh33p" />
+
 Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep😴. I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), PHP and SQL.
 
 <img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" />
 
 **About Me:**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s3ansh33p&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
 
 - 🔭 I’m currently working on a voice-powered scheduler app as a Full-Stack developer.
 - 🌱 I’m currently learning typescript and react.
@@ -43,3 +47,8 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 
 Currently a private codebase, which is why you don't see any repositories.
 If you would like to have access to a particular repository, send me an email.
+
+**Stats:**
+
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=s3ansh33p&count_private=true&include_all_commits=true&theme=onedark" alt="s3ansh33p" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3ansh33p&layout=compact&theme=onedark&langs_count=15" />
