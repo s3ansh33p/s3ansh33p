@@ -12,8 +12,8 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3ansh33p&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
 
-- 🔭 I’m currently working on [DogeTracker](https://stats.dogehouse.xyz?s3ansh33p) with the [DogeGarden Team](https://discord.gg/FKzV27CNPJ)
-- 🌱 I’m currently learning typescript and react.
+- 🔭 I’m currently working on [DogeTracker](https://stats.dogegarden.net?github=s3ansh33p) with the [DogeGarden Team](https://discord.gg/FKzV27CNPJ)
+- 🌱 I’m currently learning typescript.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, I'd happy to answer it
 - 📫 How to reach me: via my [website](https://seanmcginty.space/)
