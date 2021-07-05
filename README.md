@@ -4,7 +4,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=s3ansh33p&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="s3ansh33p" />
 
-Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep😴. I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), PHP and SQL.
+Hi, I'm Sean ✌️, a Full-Stack Web Developer, Penetration Tester and Tech Enthusiast. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep😴. I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), PHP and SQL.
 
 <img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" />
 
@@ -12,7 +12,7 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3ansh33p&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
 
-- 🔭 I’m currently working on [DogeTracker](https://stats.dogegarden.net?github=s3ansh33p) with the [DogeGarden Team](https://discord.gg/FKzV27CNPJ)
+- 🔭 I’m currently working on a [Computer Science Programming Project](https://github.com/s3ansh33p/Computer-Science-ATAR).
 - 🌱 I’m currently learning typescript.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, I'd happy to answer it
@@ -45,7 +45,7 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 
 **Notes:**
 
-Currently a private codebase, which is why you don't see any repositories.
+Mostly a private codebase, which is why you don't see many repositories.
 If you would like to have access to a particular repository, send me an email.
 
 **Stats:**
