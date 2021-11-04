@@ -12,7 +12,7 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Penetration Tester and Tech Ent
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3ansh33p&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
 
-- 🔭 I’m currently working on a [FiveAnalytics - Coming Soon](https://github.com/FiveAnalytics/).
+- 🔭 I’m currently working on [FiveAnalytics - Coming Soon](https://github.com/FiveAnalytics/).
 - 🌱 I’m planning to learn python.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, I'd happy to answer it
