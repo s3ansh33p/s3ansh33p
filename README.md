@@ -55,6 +55,8 @@ If you would like to have access to a particular repository, send me an email.
 
 **Stats:**
 
-![](https://github.com/s3ansh33p/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/s3ansh33p/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/s3ansh33p/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/s3ansh33p/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/s3ansh33p/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/s3ansh33p/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
