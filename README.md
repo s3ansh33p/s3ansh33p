@@ -17,10 +17,10 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Penetration Tester and Tech Ent
 - 🔭 I’m currently working on [FiveAnalytics - Coming Soon](https://github.com/FiveAnalytics/).
 - 🌱 I’m planning to learn python.
 - 👯 Part of Developer Community.
-- 💬 Ask me about anything, I'd happy to answer it
-- 📫 How to reach me: via my [website](https://seanmcginty.space/)
-- ⚡ Student at Wesley College - South Perth
-- ✨ I am learning to speak Indonesian
+- 💬 Ask me about anything, I'd happy to answer it.
+- 📫 How to reach me: via Discord or my [website](https://seanmcginty.space/)
+- ⚡ Student at Curtin University.
+- ✨ I can speak some Indonesian.
 
 **Tools / Languages:**
 
