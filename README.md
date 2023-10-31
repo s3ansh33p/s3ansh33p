@@ -1,8 +1,6 @@
-### Hi there 👋 I'm [Sean McGinty](https://seanmcginty.space/)
+### Hi there 👋 I'm [Sean](https://seanmcginty.space/)
 
 <!-- **s3ansh33p/s3ansh33p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<img style="text-align: center" src="https://discord.c99.nl/widget/theme-3/647976088894439454.png">
 
 <img src="https://github-profile-trophy.vercel.app/?username=s3ansh33p&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="s3ansh33p" />
 
@@ -14,11 +12,11 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Penetration Tester and Tech Ent
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3ansh33p&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p Profile Views" /> </p>
 
-- 🔭 I’m currently working on [FiveAnalytics - Coming Soon](https://github.com/FiveAnalytics/).
-- 🌱 I’m planning to learn python.
+- 🔭 I’m currently working on some web apps.
+- 🌱 I’m learning Erlang and Ruby.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, I'd happy to answer it.
-- 📫 How to reach me: via Discord or my [website](https://seanmcginty.space/)
+- 📫 How to reach me: via email or my [website](https://seanmcginty.space/)
 - ⚡ Student at Curtin University.
 - ✨ I can speak some Indonesian.
 
@@ -27,7 +25,7 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Penetration Tester and Tech Ent
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![CharJS](https://img.shields.io/badge/-ChartJS-05122A?style=flat&logo=chart.js)
+![ChartJS](https://img.shields.io/badge/-ChartJS-05122A?style=flat&logo=chart.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 ![Filezilla](https://img.shields.io/badge/-Filezilla-05122A?style=flat&logo=filezilla&logoColor=BF0000)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -49,11 +47,6 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Penetration Tester and Tech Ent
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)
-
-**Notes:**
-
-A large portion of projects are not exposed to the public.
-If you would like to have access to a particular repository, send me an email.
 
 **Stats:**
 
